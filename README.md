@@ -1,2 +1,2 @@
 # Parcial
-Parcia
+Parcial
