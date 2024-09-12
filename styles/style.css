@@ -1,0 +1,49 @@
+body {
+    background:#7983df
+}
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 200%;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    margin: 10px;
+}
+h2, h3, h4, h5, h6{
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    font-size: 150%;
+}
+p {
+    color: rgb(255, 255, 255);
+    margin: 20px;
+}
+
+.lista-principal {
+    color: #000000;
+    font-family: Arial, sans-serif;
+}
+
+.lista-principal ul {
+    margin-left: 20px;
+}
+
+.lista-principal li {
+    margin-bottom: 5px;
+}
+
+.info-java {
+    background-color: #7983df;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+
+.info-cpp {
+    background-color: #bf77ee;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+
